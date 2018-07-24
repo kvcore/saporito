@@ -1,0 +1,70 @@
+<style type="text/css">
+.block-header {
+  margin-top: 15px;
+}
+
+.download-wrapper {
+  display: block;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  top-margin: 15px;
+  
+}
+.block { 
+  display: block; 
+  min-width: 350px;
+  max-width: 450px; 
+  text-align: center; 
+  padding: 25px; 
+  margin: auto;
+  background-color: white; 
+}
+
+.download {     
+  background-color: #000000;  
+  text-decoration: none;
+  font-weight: bold;    
+  color: white;     
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  width: 250px;
+  text-align: center; 
+  border-radius: 3px;
+}
+
+a.download:link {  
+  color:#ffffff;  
+  background-color: #000000;  
+  text-decoration: none;
+}
+
+a.download:visited {  
+  color:#ffffff;  
+  background-color: #000000; 
+}
+
+a.download:hover {  
+  color:#ffffff;  
+  background-color: #000000;  
+  text-decoration: none;
+}
+
+a.download:active {  
+  color:#ffffff;  
+  background-color: #000000;  
+  text-decoration: none;
+}
+
+</style>
+
+<div class="download-wrapper">
+<div class="block">
+   <img width="250px" src="https://image.ibb.co/nxymyd/seller.jpg" alt="Home Sellers Guide" height="auto" width="100%" />
+   <h4 class="block-header">Selling Your Home?</h4>
+   <p>It’s difficult to know when is the best time to sell. This free eGuide below will answer many of your questions.</p><br>
+   <a class="download" href="http://www.simplifyingthemarket.com/en/buyers/?a=110847-7f787679e7e20aaeb5c7e90a9f609fb6">Learn More</a>
+ </div>
+</div>
